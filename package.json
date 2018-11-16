@@ -1,0 +1,22 @@
+{
+  "name": "nature-camp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourybunny/nature-camp.git"
+  },
+  "author": "sourya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourybunny/nature-camp/issues"
+  },
+  "homepage": "https://github.com/sourybunny/nature-camp#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
